@@ -1,7 +1,7 @@
 # E-Commerce-Dashboard
 
-**Technology Used - Excel<br>
-Domain - E-Commerce**<br>
+#### Technology Used - Excel<br>
+#### Domain - E-Commerce<br>
 -------------------------------------------------------------------------------------------
 ### Objective<br>
 -------------------------------------------------------------------------------------------

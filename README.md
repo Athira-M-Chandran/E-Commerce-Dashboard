@@ -15,6 +15,3 @@ Documents attached in this repository:<br>
 4. Wire Frame Document
 5. Detail Project Report (DPR)
 6. Project Demo Video - https://drive.google.com/file/d/1Vl10Xv4x1mYz91jYm2HCnHOpwJStvkcY/view?usp=sharing
-
-
-
